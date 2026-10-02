@@ -1,0 +1,6 @@
+{
+  "name": "Thalassa · Cardápio Digital & KDS",
+  "description": "Sistema profissional de cardápio digital para restaurantes com pedidos por QR Code na mesa, comanda digital, KDS de cozinha em tempo real e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
